@@ -26,6 +26,7 @@ My Personal Essential Problems for PS
   + 9663번: N-Queen
   + 14889번: 스타트와 링크
   + 15686번: 치킨 배달
+  + 2661번: 좋은수열
 + 기초 수학
   + 1037번: 약수
   + 1978번: 소수 찾기
