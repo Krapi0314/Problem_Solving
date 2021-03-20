@@ -104,7 +104,7 @@ int main(void)
 dist[MAX][MAX][2]: discovered 판별 & 거리 계산
 			벽 뚫음/뚫지 않음 의 두 가지의 경우에 대해 bfs 기록
 			0		1
-int dfs()
+int bfs()
 	queue push ((1,1),1)
 	dist[1,1,1] = 1 (시작점 1부터 시작)
 
