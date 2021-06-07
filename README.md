@@ -4,7 +4,8 @@ PS 필수 문제 아카이브
 My Personal Essential Problems for PS
 
 ### 백준 필수 문제 목록
-
++ 구현
+  + 1212번: 8진수 2진수
 + 탐색과 정렬
   + 1920번: 수 찾기
   + 2750번: 수 정렬하기
