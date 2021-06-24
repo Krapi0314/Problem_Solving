@@ -54,6 +54,7 @@ My Personal Essential Problems for PS
   + 6588번: 골드바흐의 추측
   + 15711번: 환상의 짝꿍
   + 1016번: 제곱 ㄴㄴ 수
+  + 4134번: 다음 소수
 + DFS와 BFS
   + 1260번: DFS와 BFS
   + 2667번: 단지번호붙이기
