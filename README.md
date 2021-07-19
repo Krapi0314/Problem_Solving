@@ -107,6 +107,7 @@ My Personal Essential Problems for PS
   + 1343번: 폴리오미노
   + 1758번: 알바생 강호
   + 1439번: 뒤집기
+  + 17521번: Byte Coin
 + 파라메트릭 서치
   + 2805번: 나무 자르기
   + 1654번: 랜선 자르기
