@@ -70,6 +70,7 @@ My Personal Essential Problems for PS
   + 2960번: 에라토스테네스의 체
   + 1110번: 더하기 사이클
   + 5347번: LCM
+  + 11653번: 소인수분해
 + 그래프 탐색
   + 1260번: DFS와 BFS
   + 2667번: 단지번호붙이기
