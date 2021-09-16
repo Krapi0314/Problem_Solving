@@ -56,6 +56,7 @@ My Personal Essential Problems for PS
   + 14712번: 넴모넴모 (Easy)
   + 6443번: 애너그램
   + 1987번: 알파벳
+  + 1759번: 암호 만들기
 + 수학
   + 5618번: 공약수
   + 1037번: 약수
@@ -72,6 +73,7 @@ My Personal Essential Problems for PS
   + 1110번: 더하기 사이클
   + 5347번: LCM
   + 11653번: 소인수분해
+  + 9613번: GCD 합
 + 그래프 탐색
   + 1260번: DFS와 BFS
   + 2667번: 단지번호붙이기
