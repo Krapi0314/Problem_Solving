@@ -75,6 +75,8 @@ My Personal Essential Problems for PS
   + 5347번: LCM
   + 11653번: 소인수분해
   + 9613번: GCD 합
++ 트리
+  + 5639번: 이진 검색 트리
 + 그래프 탐색
   + 1260번: DFS와 BFS
   + 2667번: 단지번호붙이기
