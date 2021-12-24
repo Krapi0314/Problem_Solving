@@ -192,3 +192,4 @@ My Personal Essential Problems for PS
   + 7562번: 나이트의 이동
   + 3184번: 양
   + 14940번: 쉬운최단거리
+  + 2470번: 두 용액
