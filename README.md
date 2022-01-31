@@ -73,6 +73,7 @@ My Personal Essential Problems for PS
   + 11653번: 소인수분해
   + 9613번: GCD 합
   + 15829번: Hashing
+  + 1676번: 팩토리얼 0의 개수
 + 문자열
   + 3029번: 경고
   + 11720번: 숫자의 합
