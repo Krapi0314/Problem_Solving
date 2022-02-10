@@ -74,6 +74,4 @@ int main(void) {
 
 /*
 ¹®ÀÚ¿­: KMP
-
-
 */
