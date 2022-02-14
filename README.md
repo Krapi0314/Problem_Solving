@@ -213,3 +213,4 @@ My Personal Essential Problems for PS
   + 3184번: 양
   + 14940번: 쉬운최단거리
   + 11403번: 경로 찾기
+  + 1389번: 케빈 베이컨의 6단계 법칙
