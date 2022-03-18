@@ -223,3 +223,4 @@ My Personal Essential Problems for PS
   + 10026번: 적록색약
   + 16236번: 아기 상어
   + 9019번: DSLR
+  + 1967번: 트리의 지름
