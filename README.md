@@ -79,6 +79,7 @@ My Personal Essential Problems for PS
   + 15829번: Hashing
   + 1676번: 팩토리얼 0의 개수
   + 6064번: 카잉 달력
+  + 2168번: 타일 위의 대각선
 + 문자열
   + 3029번: 경고
   + 11720번: 숫자의 합
