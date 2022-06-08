@@ -1,0 +1,5 @@
+## Git Ignore For Problem Solving ##
+.vscode
+source.dSYM
+source
+source.cpp

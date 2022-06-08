@@ -226,3 +226,4 @@ My Personal Essential Problems for PS
   + 9019번: DSLR
   + 1967번: 트리의 지름
   + 13549번: 숨바꼭질 3
+  + 1520번: 내리막 길
