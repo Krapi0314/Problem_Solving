@@ -227,3 +227,4 @@ My Personal Essential Problems for PS
   + 1967번: 트리의 지름
   + 13549번: 숨바꼭질 3
   + 1520번: 내리막 길
+  + 1240번: 노드사이의 거리
