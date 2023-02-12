@@ -1,10 +1,10 @@
-## Problem Solving Archive
+# Problem Solving Archive
 
-PS 필수 문제 아카이브
+PS 문제 아카이브
 
 My Personal Essential Problems for PS
 
-### 백준 필수 문제 목록
+## 백준 문제 목록
 
 - 구현 (완전탐색)
   - 1212번: 8진수 2진수
@@ -152,6 +152,7 @@ My Personal Essential Problems for PS
   - 2670번: 연속부분최대곱
   - 12865번: 평범한\_배낭
   - 9251번: LCS
+  - 11444번: 피보나치 수 6
 - 탐욕법 (그리디 알고리즘)
   - 11047번: 동전 0
   - 1931번: 회의실배정
