@@ -234,3 +234,4 @@ My Personal Essential Problems for PS
   - 1520번: 내리막 길
   - 1240번: 노드사이의 거리
   - 18352번: 특정 거리의 도시 찾기
+  - 1865번: 웜홀
