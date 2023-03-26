@@ -237,3 +237,4 @@ My Personal Essential Problems for PS
   - 18352번: 특정 거리의 도시 찾기
   - 1865번: 웜홀
   - 1916번: 최소비용 구하기
+  - 1238번: 파티
