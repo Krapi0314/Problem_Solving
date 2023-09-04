@@ -1,6 +1,5 @@
 ## Git Ignore For Problem Solving ##
 .DS_Store
-.vscode
-source.dSYM
-source
-source.cpp
+cmake-build-*/
+.idea/
+CMakeLists.txt
