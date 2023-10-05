@@ -11,3 +11,4 @@
 ## 2022 KAKAO TECH INTERNSHIP
 
 - [성격 유형 검사하기](https://programmers.co.kr/learn/courses/30/lessons/118666)
+- [두 큐 합 같게 만들기](https://programmers.co.kr/learn/courses/30/lessons/118667)
