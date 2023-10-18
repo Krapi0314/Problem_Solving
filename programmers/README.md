@@ -14,3 +14,10 @@
 - [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
 - [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)
 - [코딩테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)
+
+## 2022 KAKAO BLIND RECRUITMENT
+
+- [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+- [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
+- [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+- [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
