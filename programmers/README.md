@@ -21,3 +21,4 @@
 - [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
 - [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
 - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
+- [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
