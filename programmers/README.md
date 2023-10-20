@@ -22,3 +22,4 @@
 - [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
 - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
 - [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
+- [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)
