@@ -2,12 +2,6 @@
 
 프로그래머스: https://school.programmers.co.kr/learn/challenges
 
-## 2021 Dev-Matching: 웹 백엔드 개발자(상반기)
-
-- [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
-- [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)
-- [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)
-
 ## 2022 KAKAO TECH INTERNSHIP
 
 - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
@@ -23,3 +17,14 @@
 - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
 - [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
 - [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)
+
+## 2021 Dev-Matching: 웹 백엔드 개발자(상반기)
+
+- [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
+- [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)
+- [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)
+
+## 2021 KAKAO BLIND RECRUITMENT
+
+- [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
+- 
