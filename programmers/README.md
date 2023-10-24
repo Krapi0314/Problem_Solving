@@ -27,4 +27,4 @@
 ## 2021 KAKAO BLIND RECRUITMENT
 
 - [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
-- 
+- [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
