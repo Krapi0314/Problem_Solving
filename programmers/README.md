@@ -28,3 +28,4 @@
 
 - [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
 - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+- [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
