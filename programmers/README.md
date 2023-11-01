@@ -31,3 +31,7 @@
 - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
 - [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
 - [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)
+
+## 2020 KAKAO BLIND RECRUITMENT
+
+- [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
