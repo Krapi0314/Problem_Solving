@@ -39,3 +39,7 @@
 - [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)
 - [가사 검색](https://school.programmers.co.kr/learn/courses/30/lessons/60060)
 - [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)
+
+## 2021 카카오 채용연계형 인턴십
+
+- [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
