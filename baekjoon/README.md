@@ -47,6 +47,7 @@
 - [2504번: 괄호의 값](https://www.acmicpc.net/problem/2504)
 - [7662번: 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
 - [17219번: 비밀번호\_찾기](https://www.acmicpc.net/problem/17219)
+- [1043번: 거짓말](https://www.acmicpc.net/problem/1043)
 
 ## 탐색과 정렬
 
