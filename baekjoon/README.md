@@ -162,10 +162,11 @@
 - [11055번: 가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)
 - [2294번: 동전 2](https://www.acmicpc.net/problem/2294)
 - [2670번: 연속부분최대곱](https://www.acmicpc.net/problem/2670)
-- [12865번: 평범한\_배낭](https://www.acmicpc.net/problem/12865)
+- [12865번: 평범한_배낭](https://www.acmicpc.net/problem/12865)
 - [9251번: LCS](https://www.acmicpc.net/problem/9251)
 - [11444번: 피보나치 수 6](https://www.acmicpc.net/problem/11444)
-- [11054번\_가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+- [11054번: 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+- [2096번: 내려가기](https://www.acmicpc.net/problem/2096)
 
 ## 탐욕법 (그리디 알고리즘)
 
