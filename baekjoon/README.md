@@ -48,6 +48,7 @@
 - [7662번: 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
 - [17219번: 비밀번호\_찾기](https://www.acmicpc.net/problem/17219)
 - [1043번: 거짓말](https://www.acmicpc.net/problem/1043)
+- [9935번: 문자열 폭발](https://www.acmicpc.net/problem/9935)
 
 ## 탐색과 정렬
 
