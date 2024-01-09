@@ -50,6 +50,7 @@
 - [1043번: 거짓말](https://www.acmicpc.net/problem/1043)
 - [9935번: 문자열 폭발](https://www.acmicpc.net/problem/9935)
 - [22942번: 데이터 체커](https://www.acmicpc.net/problem/22942)
+- [2493번: 탑](https://www.acmicpc.net/problem/2493)
 
 ## 탐색과 정렬
 
