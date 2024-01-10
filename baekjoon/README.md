@@ -19,6 +19,7 @@
 - [18111번: 마인크래프트](https://www.acmicpc.net/problem/18111)
 - [11723번: 집합](https://www.acmicpc.net/problem/11723)
 - [1107번: 리모컨](https://www.acmicpc.net/problem/1107)
+- [21918번: 전구](https://www.acmicpc.net/problem/21918)
 
 ## 자료구조
 
