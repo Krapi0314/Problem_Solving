@@ -21,6 +21,7 @@
 - [1107번: 리모컨](https://www.acmicpc.net/problem/1107)
 - [21918번: 전구](https://www.acmicpc.net/problem/21918)
 - [21608번: 상어 초등학교](https://www.acmicpc.net/problem/21608)
+- [15787번: 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
 
 ## 자료구조
 
