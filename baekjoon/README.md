@@ -23,6 +23,7 @@
 - [21608번: 상어 초등학교](https://www.acmicpc.net/problem/21608)
 - [15787번: 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
 - [16719번: ZOAC](https://www.acmicpc.net/problem/16719)
+- [2615번: 오목](https://www.acmicpc.net/problem/2615)
 
 ## 자료구조
 
