@@ -118,6 +118,7 @@
 - [16916번: 부분 문자열](https://www.acmicpc.net/problem/16916)
 - [1259번: 팰린드롬수](https://www.acmicpc.net/problem/1259)
 - [5525번: IOIOI](https://www.acmicpc.net/problem/5525)
+- [12933번: 오리](https://www.acmicpc.net/problem/12933)
 
 ## 백트래킹
 
