@@ -119,6 +119,7 @@
 - [1259번: 팰린드롬수](https://www.acmicpc.net/problem/1259)
 - [5525번: IOIOI](https://www.acmicpc.net/problem/5525)
 - [12933번: 오리](https://www.acmicpc.net/problem/12933)
+- [1244번: 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
 
 ## 백트래킹
 
