@@ -26,6 +26,10 @@
 - [2615번: 오목](https://www.acmicpc.net/problem/2615)
 - [22858번: 원상 복구 (small)](https://www.acmicpc.net/problem/22858)
 
+## 시뮬레이션
+
+- [20436번: ZOAC 3](https://www.acmicpc.net/problem/20436)
+
 ## 자료구조
 
 - [10828번: 스택](https://www.acmicpc.net/problem/10828)
