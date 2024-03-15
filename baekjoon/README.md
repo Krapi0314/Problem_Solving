@@ -29,6 +29,7 @@
 ## 시뮬레이션
 
 - [20436번: ZOAC 3](https://www.acmicpc.net/problem/20436)
+- [5212번: 지구 온난화](https://www.acmicpc.net/problem/5212)
 
 ## 자료구조
 
