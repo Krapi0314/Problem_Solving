@@ -33,6 +33,7 @@
 - [1713번: 후보 추천하기](https://www.acmicpc.net/problem/1713)
 - [21610번: 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
 - [14891번: 톱니바퀴](https://www.acmicpc.net/problem/14891)
+- [20165번: 인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165)
 
 ## 자료구조
 
